@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="photos">
+        <item>http://g.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=dc7f2089758da9775a228e79d138937c/b3b7d0a20cf431ad5d00a0834d36acaf2fdd98be.jpg</item>
+        <item>http://c.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=3615abc83b292df583cea447dd583705/b219ebc4b74543a920dd942b1f178a82b8011416.jpg</item>
+        <item>http://a.hiphotos.baidu.com/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=a0d4282230adcbef15397654cdc645b8/b58f8c5494eef01f4a5f0923e1fe9925bd317d88.jpg</item>
+        <item>http://f.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=d6f8bd25b3119313d34ef7e2045167b2/c9fcc3cec3fdfc0317fe905fd53f8794a5c22656.jpg</item>
+        <item>http://a.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=89e59483574e9258b2398ebcfdebba3d/4610b912c8fcc3ce433bb5d49345d688d53f2059.jpg</item>
+    </string-array>
+</resources>
